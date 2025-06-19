@@ -6,6 +6,8 @@
 - **重啟 KOReader**
 - 切換鍵盤配置 **簡體中文(zh)** 輸入測試
 
+<table><tbody><tr><td><img src="photo_kb.jpg" height="400px"/></td></tr></tbody></table>
+<table><tbody><tr><td><img src="photo_test.jpg" height="400px"/></td></tr></tbody></table>
 
 ```
 -- 自訂資料
