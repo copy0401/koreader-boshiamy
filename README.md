@@ -2,7 +2,7 @@
 
 - https://github.com/gytwo/pinyin_enhancement.koplugin
 - https://github.com/finlater/pinyinplus.koplugin
-- https://github.com/PP002/koreader/releases
+
 
 
 # koreader-boshiamy
