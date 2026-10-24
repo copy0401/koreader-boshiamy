@@ -4,7 +4,8 @@
 # 使用方法
 - 把 **1-replace-zh-pinyin-data.lua** 放到 **koreader/patches/** 目錄下
 - **重啟 KOReader**
-- 切換鍵盤配置 **簡體中文(zh)** 輸入測試
+
+- 切換鍵盤配置  設定 > 設備 > 鍵盤 > 鍵盤佈局 > **簡體中文(zh)** 
 
 <table><tbody><tr><td><img src="photo_kb.jpg" height="400px"/></td></tr></tbody></table>
 <table><tbody><tr><td><img src="photo_test.jpg" height="400px"/></td></tr></tbody></table>
