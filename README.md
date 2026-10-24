@@ -1,3 +1,10 @@
+# 新版本已不適用此方式 請改用下列方式
+
+- https://github.com/gytwo/pinyin_enhancement.koplugin
+- https://github.com/finlater/pinyinplus.koplugin
+- https://github.com/PP002/koreader/releases
+
+
 # koreader-boshiamy
 一個 koreader 補丁 用於替換原本 拼音 ( zh_pinyin_data.lua ) 成嘸蝦米 ( 此方法也適用於 倉頡/五筆 )
 
