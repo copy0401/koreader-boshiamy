@@ -1,12 +1,10 @@
-# 新版本已不適用此方式 請改用下列方式
-
+# 此方法只適用於 v2026.03「Snowflake」或 v2025.10「Ghost」 更之前的版本
+# 新版本 koreader 已不適用此方式 請改用下列方式
 - https://github.com/gytwo/pinyin_enhancement.koplugin
 - https://github.com/finlater/pinyinplus.koplugin
 
-
-
-# koreader-boshiamy
-一個 koreader 補丁 用於替換原本 拼音 ( zh_pinyin_data.lua ) 成嘸蝦米 ( 此方法也適用於 倉頡/五筆 )
+# koreader-boshiamy 
+## 一個 koreader 補丁 用於替換原本 拼音 ( zh_pinyin_data.lua ) 成嘸蝦米 ( 此方法也適用於 倉頡/五筆 )
 
 # 使用方法
 - 把 **1-replace-zh-pinyin-data.lua** 放到 **koreader/patches/** 目錄下
